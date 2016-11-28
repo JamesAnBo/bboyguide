@@ -1,0 +1,19 @@
+{
+  "name": "bboyguide",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JamesAnBo/bboyguide.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JamesAnBo/bboyguide/issues"
+  },
+  "homepage": "https://github.com/JamesAnBo/bboyguide#readme"
+}
